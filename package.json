@@ -1,0 +1,29 @@
+{
+  "name": "weather-icons-react",
+  "version": "1.0.0",
+  "description": "svg react icons from the http://weathericons.io library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/najens/weather-icons-react.git"
+  },
+  "keywords": [
+    "weathericons",
+    "weather",
+    "icons",
+    "react",
+    "svg"
+  ],
+  "author": "Nate Jensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/najens/weather-icons-react/issues"
+  },
+  "homepage": "https://github.com/najens/weather-icons-react#readme"
+}
