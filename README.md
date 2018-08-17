@@ -1,17 +1,17 @@
-# React Weather Icons
-Include Weather Icons in your react project easily with 'react-weather-icons', which utilizes ES6 imports so that you only need to include the icons that your project is using.
+# Weather Icons React
+Include Weather Icons in your react project easily with 'weather-icons-react', which utilizes ES6 imports so that you only need to include the icons that your project is using.
 
 
 ## Installation
 
 ```js
-npm install react-weather-icons --save
+npm install weather-icons-react --save
 ```
 
 ## Usage
 
 ```jsx
-import { WiDaySunny } from 'react-weather-icons';
+import { WiDaySunny } from 'weather-icons-react';
 
 class Weather extends React.Component {
     render() {
