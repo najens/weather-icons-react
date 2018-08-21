@@ -20,6 +20,8 @@ class Weather extends React.Component {
 }
 ```
 
+## Icons
+[https://najens.github.io/weather-icons-react/](https://najens.github.io/weather-icons-react/)
 
 ## License
 
